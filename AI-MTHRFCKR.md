@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# AI-MTHRFCKR Web Version
+# AI-MTHRFCKR
 
 ---
 
