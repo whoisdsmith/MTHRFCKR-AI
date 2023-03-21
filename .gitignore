@@ -1,0 +1,13 @@
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+.trash/
+.DS_Store
+.vscode/
+.personal/
+
+
+megalinter-reports/
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
