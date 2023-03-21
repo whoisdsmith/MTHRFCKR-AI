@@ -1,6 +1,6 @@
 # AI-MTHRFCKR
 
-![Banner](banner.png)
+![](banner.png)
 
 ## AI-MTHRFCKR
 
