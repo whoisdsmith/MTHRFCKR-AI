@@ -24,4 +24,3 @@
   * [AI-Tools](ai-mthrfckr/ai-tools.md)
   * [AI-Video](ai-mthrfckr/ai-video.md)
   * [AI-Writing](ai-mthrfckr/ai-writing.md)
-* [README](<README (1).md>)
