@@ -1,8 +1,8 @@
-# AI-MTHRFCKR
+# README
 
 ![Banner](banner.png)
 
-## AI-MTHRFCKR
+## AI-MTHRFCKR Web Version
 
 ***
 
