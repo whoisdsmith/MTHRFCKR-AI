@@ -21,7 +21,6 @@
 
 ***
 
-* [Table Of Contents](broken-reference)
 * [Recently Added](ai-mthrfckr/recently-added.md)
 * [AI-Apps](ai-mthrfckr/ai-apps.md)
 * [AI-ArtNFTImages](ai-mthrfckr/ai-artnftimages.md)
