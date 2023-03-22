@@ -106,4 +106,3 @@
     * [Story Teller](ai-mthrfckr/ai-writing/story-teller.md)
     * [Summarizing](ai-mthrfckr/ai-writing/summarizing.md)
     * [Writing](ai-mthrfckr/ai-writing/writing.md)
-* [AI-MTHRFCKR](<README (1).md>)
