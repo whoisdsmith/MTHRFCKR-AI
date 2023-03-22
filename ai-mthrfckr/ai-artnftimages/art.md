@@ -178,8 +178,8 @@
 * [BigGAN + CLIP](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd\_o7IU7nA9UskKN5WR) - A Google Colab Notebook Demonstrating The Use Of BigGAN And CLIP To Generate Images.
 * [BigGAN + CLIP (Using BigSleep Library)](https://colab.research.google.com/drive/1MEWKbm%E2%80%93driRNF8PrU7ogS5o3se%E2%80%93ePyPb) - A Google Colab Notebook Demonstrating The Use Of BigGAN And CLIP To Generate Images, Using The BigSleep Library.
 * [BigGAN + CLIP (Story Hallucinator)](https://colab.research.google.com/drive/1jF8pyZ7uaNYbk9ZiVdxTOajkp8kbmkLK) - A Google Colab Notebook Demonstrating The Use Of BigGAN And CLIP To Generate Images, Using A Story Hallucinator.
-* [BigGAN + CLIP (Short URL)](../j.mp/bigclip/) - A Shortened URL Pointing To A Resource Demonstrating The Use Of BigGAN And CLIP To Generate Images.
-* [BigGAN + CLIP + CMA-ES](../j.mp/wanderclip/) - A Shortened URL Pointing To A Resource Demonstrating The Use Of BigGAN, CLIP, And CMA-ES To Generate Images.
+* [BigGAN + CLIP (Short URL)](../../j.mp/bigclip/) - A Shortened URL Pointing To A Resource Demonstrating The Use Of BigGAN And CLIP To Generate Images.
+* [BigGAN + CLIP + CMA-ES](../../j.mp/wanderclip/) - A Shortened URL Pointing To A Resource Demonstrating The Use Of BigGAN, CLIP, And CMA-ES To Generate Images.
 * [StyleGAN2-ADA Anime + CLIP](https://colab.research.google.com/github/nagolinc/notebooks/blob/main/TADNE\_and\_CLIP.ipynb) - A Google Colab Notebook Demonstrating The Use Of StyleGAN2-ADA And CLIP To Generate Anime-style Images.
 * [StyleGAN2-ADA Anime + CLIP (PyTorch)](https://colab.research.google.com/github/nagolinc/notebooks/blob/main/CLIP\_%2B\_TADNE\_\(pytorch\)\_v2.ipynb\_v2.ipynb) - A Google Colab Notebook Demonstrating The Use Of StyleGAN2-ADA And CLIP To Generate Anime-style Images, Using PyTorch.
 * [CLIP + TADNE (PyTorch) V2](https://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/optimization\_playground.ipynb) - A Google Colab Notebook Demonstrating The Use Of CLIP And TADNE (PyTorch) V2 To Generate Images.
@@ -280,10 +280,9 @@
 
 ### Deepnude
 
-* [Dreampower Notebook On Google Colab](https://colab.research.google.com/gist/Ptibouc77/cd7da30a967b301f2d7a042ad6f06886/dreampower%E2%80%93v1%E2%80%932%E2%80%938%E2%80%93updated%E2%80%93from%E2%80%931%E2%80%932%E2%80%935%E2%80%93from%E2%80%93firstdee.ipynb)\  
+* [Dreampower Notebook On Google Colab](https://colab.research.google.com/gist/Ptibouc77/cd7da30a967b301f2d7a042ad6f06886/dreampower%E2%80%93v1%E2%80%932%E2%80%938%E2%80%93updated%E2%80%93from%E2%80%931%E2%80%932%E2%80%935%E2%80%93from%E2%80%93firstdee.ipynb)\\\
   A Jupyter Notebook For The Deepnude Algorithm, Which Can Generate Images Of A Person's Naked Body From A Clothed Image.
-
-* [Dreamtime Notebook On Google Colab](https://colab.research.google.com/gist/FirstDee/c3a94ff37e0561e597b65160aabbbc07/dreamtime%E2%80%93v1.ipynb)\  
+* [Dreamtime Notebook On Google Colab](https://colab.research.google.com/gist/FirstDee/c3a94ff37e0561e597b65160aabbbc07/dreamtime%E2%80%93v1.ipynb)\\\
   A Jupyter Notebook For Another Version Of The Deepnude Algorithm.
 
 ### DeepSVG
@@ -343,7 +342,7 @@
 * [Full Body Reenactment From Video - Impersonator++](https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKud\_)
 * [Full Body Reenactment From Video - Impersonator++ (Short Link)](https://j.mp/vid2warp)
 * [Impersonator++ Windows App](https://github.com/iPERDance/iPERCore/wiki/How-to-use-the-released-version-on-windows%3F)
-* [Pose Animator Demo](../pose-animator-demo.firebaseapp.com/camera.html)
+* [Pose Animator Demo](../../pose-animator-demo.firebaseapp.com/camera.html)
 * [Articulated Animation - Full Body Reenactment From Video](https://j.mp/mraa-body)
 
 ### Generator
@@ -554,7 +553,7 @@
 
 **Image Generation And Animation Based On A Single Image**
 
-* [SinGAN Notebook On Google Colab](https://colab.research.google.com/github/dvschultz/ai/blob/master/SinGAN.ipynb)\  
+* [SinGAN Notebook On Google Colab](https://colab.research.google.com/github/dvschultz/ai/blob/master/SinGAN.ipynb)\\\
   A Jupyter Notebook Demonstrating The Use Of SinGAN For Generating And Animating Images Based On A Single Input Image.
 
 **Image Generation With AI2 X–LXMERT**
@@ -573,7 +572,7 @@
 * [ArtLine Video To GIF](https://colab.research.google.com/github/cedro3/others/blob/master/ArtLine\_make\_gif.ipynb) - Convert ArtLine Videos To GIFs
 * [Alt\_Model.ipynb](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon\_Me\_%20-%20Alt\_Model.ipynb) - Alternative Toon Me Model Notebook On Google Colab
 * [Try\_it\_on\_Colab.ipynb](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon\_Me\_%20-%20Try\_it\_on\_Colab.ipynb) - Toon Me Try It On Colab Notebook On Google Colab
-* [U2Net + Video + Blend](../j.mp/vid2green/) - Video To Green Screen Using U2Net And Blend
+* [U2Net + Video + Blend](../../j.mp/vid2green/) - Video To Green Screen Using U2Net And Blend
 * [ToonMe](https://toonme.com/) - Toon Me Website
 * [ToonMe Labs](https://toonme.com/labs) - Toon Me Labs Website
 * [Profu.ai](https://profu.ai/) - AI Content Creation Platform

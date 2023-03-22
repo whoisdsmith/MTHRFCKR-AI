@@ -21,25 +21,4 @@
 
 ***
 
-* [Recently Added](recently-added.md)
-* [AI-Apps](ai-apps.md)
-* [AI-ArtNFTImages](ai-artnftimages.md)
-* [AI-Audio](ai-audio.md)
-* [AI-Business](ai-business.md)
-* [AI-Content](ai-content.md)
-* [AI-Data](ai-data.md)
-* [AI-Design](ai-design.md)
-* [AI-Detection](ai-detection.md)
-* [AI-Development](ai-development.md)
-* [AI-EducationLearning](ai-educationlearning.md)
-* [AI-Experiments](ai-experiments.md)
-* [AI-Health](ai-health.md)
-* [AI-NewsArticlesBlogsSocial](ai-newsarticlesblogssocial.md)
-* [AI-Other](ai-other.md)
-* [AI-Productivity](ai-productivity.md)
-* [AI-Prompts](ai-prompts.md)
-* [AI-Resources](ai-resources.md)
-* [AI-Text](ai-text.md)
-* [AI-Tools](ai-tools.md)
-* [AI-Video](ai-video.md)
-* [AI-Writing](ai-writing.md)
+***

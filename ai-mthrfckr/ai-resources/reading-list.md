@@ -2,14 +2,14 @@
 
 ## Reading List
 
-This Section Is From [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq\_6KP5QWlQaDS\_Sgk0\&sa=D\&source=docs\&ust=1675571170625334\&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX) All Credit Goes To Him!\  
+This Section Is From [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq\_6KP5QWlQaDS\_Sgk0\&sa=D\&source=docs\&ust=1675571170625334\&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX) All Credit Goes To Him!\\\
 [Music Playlist](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/playlist/0cYcPCDK2MBzKt4QXym5GM?si%253Da4d17192c8814a42%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170548835%26amp;usg%3DAOvVaw2YYr1D7e8n6cs57Te\_KjVh\&sa=D\&source=docs\&ust=1675571170625091\&usg=AOvVaw1YzyoCd90UCt42Umo9OtUC)
 
-* [Blogs / Threads / Papers](<ai-resources.md#Blogs / Threads / Papers>)
-* [Podcasts](ai-resources.md#Podcasts)
-* [Videos / Video Podcasts / Video Essays](<ai-resources.md#Videos / Video Podcasts / Video Essays>)
-* [Books](ai-resources.md#Books)
-* [Movies](ai-resources.md#Movies)
+* [Blogs / Threads / Papers](<./#Blogs / Threads / Papers>)
+* [Podcasts](./#Podcasts)
+* [Videos / Video Podcasts / Video Essays](<./#Videos / Video Podcasts / Video Essays>)
+* [Books](./#Books)
+* [Movies](./#Movies)
 
 ![](https://lh6.googleusercontent.com/xSG-OULiPJKOPOzq83HvgQwDn-O0\_NRFJ-OFvV6TucDU4r2lOua4jrmWTJVVvuSH-CZABVQ2mwINI3os1HBhkhN-FyKfbpzXfDN96dkJaVjX74KOBwHlXV9a2UMpePlS4-Wuwh0V1NgK5WTB=s800)
 
