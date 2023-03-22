@@ -14,11 +14,12 @@
 * [Showcase](ai-artnftimages.md#Showcase)
 * [Tools](ai-artnftimages.md#Tools)
 
-***
-
 ### 3D & Animation
 
-* [3D Object Generation](https://colab.research.google.com/drive/1FcQibnjfp4mpn\_WJiQlVBRJMkhSMZqbU) - This Is A Google Colaboratory Notebook That Demonstrates How To Generate 3D Objects Using Generative Adversarial Networks (GANs).
+
+
+[3D Object Generation](https://colab.research.google.com/drive/1FcQibnjfp4mpn\_WJiQlVBRJMkhSMZqbU) - This Is A Google Colaboratory Notebook That Demonstrates How To Generate 3D Objects Using Generative Adversarial Networks (GANs).
+
 * [3D Photo Inpainting ARGS Gist](https://colab.research.google.com/gist/asears/67bdf99b4d88edd56f512242b46708b7/3d%E2%80%93photo%E2%80%93inpainting%E2%80%93args.ipynb) - This Is A Google Colaboratory Gist That Provides Code To Perform 3D Photo Inpainting Using An ARGS-based Approach.
 * [3D Photo Inpainting With ARGS](https://colab.research.google.com/drive/1706ToQrkIZshRSJSHvZ1RuCiM\_\_YX3Bz) - This Is A Google Colaboratory Notebook That Demonstrates How To Perform 3D Photo Inpainting Using An ARGS (Attribute-Regularized Generative Adversarial Networks) Based Approach.
 * [CSM](https://csm.ai/) - CSM Is An AI Platform That Automates The Creation And Management Of Customer Service Interactions.
@@ -54,7 +55,7 @@
 * [Pifuhd](https://colab.research.google.com/github/cedro3/others/blob/master/PIFuHD\_Demo.ipynb) - 3D Human Reconstruction And Motion Capture
 * [Frankmocap](https://colab.research.google.com/drive/15qA6kbyVK--8q88FHXdzwPiGT0UyKvwg) - 3D Human Reconstruction And Motion Capture
 
-### Art
+Art
 
 * [NightCafe Creator](https://creator.nightcafe.studio/) - 🤖 🖼 AI Art Generator, AI Art Maker
 * [AI Art Apps Database](https://aiartapps.com/) - A Database Of AI Art Apps
