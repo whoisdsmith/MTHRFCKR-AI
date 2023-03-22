@@ -1,4 +1,6 @@
-### Pharampyschaotic
+# Pharampyschaotic
+
+## Pharampyschaotic
 
 **Note, A Lot Of Resources On This Repo Came From Pharampyschaotic's Website, Amazing Stuff! Follow Pharampyschaotic On** [**Instagram**](https://www.instagram.com/pharmapsychotic/) **** [**Twitter**](https://twitter.com/pharmapsychotic) **** [**Reddit**](https://www.reddit.com/user/pharmapsychosis)
 

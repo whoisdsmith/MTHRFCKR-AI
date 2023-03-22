@@ -1,4 +1,6 @@
-### SQL
+# SQL
+
+## SQL
 
 - [Ai2sql](http://www.ai2sql.io) - Sql Query Builder AI Bot. With AI2sql, Engineers And Non-engineers Can Easily Write Efficient, Error-free SQL Queries Without Knowing SQL. It's Time To Take Back Your Time.
 - [AI Data Sidekick](https://www.airops.com/) - A Website Offering An AI-powered Tool For Analyzing And Optimizing Data.

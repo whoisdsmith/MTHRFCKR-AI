@@ -1,4 +1,6 @@
-### Memory
+# Memory
+
+## Memory
 
 * [Glasp](https://glasp.co/ai-writing) - An AI-powered Writing Assistant.
 * [Heyday](https://heyday.xyz/) - An AI-powered Memory Platform That Helps Users Preserve And Relive Their Memories.

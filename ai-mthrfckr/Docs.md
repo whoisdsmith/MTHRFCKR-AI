@@ -1,4 +1,6 @@
-### Docs
+# Docs
+
+## Docs
 
 * [A Guide To Writing Prompts For Text-to-image AI](https://docs.google.com/document/d/1XUT2G9LmkZataHFzmuOtRXnuWBfhvXDAo8DkS--8tec/edit) - This Is A Google Document That Provides A Guide On Writing Prompts For Text-to-image AI.
 * [Disco Diffusion Portrait Study (By @Enviraldesign)](https://docs.google.com/document/d/1Ff8s8CX3xGrVr6AJ94hcvQ\_PYqJ\_mDAXzT3NGb5\_K1w/edit) - A Portrait Study Of Disco Diffusion

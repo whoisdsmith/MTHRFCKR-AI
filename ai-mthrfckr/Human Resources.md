@@ -1,4 +1,6 @@
-### Human Resources
+# Human Resources
+
+## Human Resources
 
 * [AI Careers](https://aicareers.io/) - AI Careers Helps You Land Your Dream Job In AI.
 * [Autumn AI](https://www.getautumn.com/) - Autumn AI Is An AI-powered Hiring Platform For Engineering Teams.

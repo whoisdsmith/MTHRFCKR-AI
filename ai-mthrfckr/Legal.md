@@ -1,4 +1,6 @@
-### Legal
+# Legal
+
+## Legal
 
 * [Activazon](https://activazon.com/) - Activazon Is A Customer Engagement Platform That Leverages AI And Natural Language Processing.
 * [Analyzelaw](https://www.analyzelaw.com/) - AnalyzeLaw Is An AI-powered Legal Research Tool.

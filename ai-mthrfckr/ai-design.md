@@ -9,5 +9,3 @@
 - [Web Design](Web%20Design.md)
 
 ***
-
-

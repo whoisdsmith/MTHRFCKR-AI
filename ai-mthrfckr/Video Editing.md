@@ -1,4 +1,6 @@
-### Video Editing
+# Video Editing
+
+## Video Editing
 
 * [Beatoven.ai](https://www.beatoven.ai/) - Artificial Intelligence Powered Beat Making Software
 * [Colourlab](https://www.colourlab.ai/) - An AI Powered Color Grading Tool

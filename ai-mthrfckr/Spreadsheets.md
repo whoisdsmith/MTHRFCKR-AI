@@ -1,4 +1,6 @@
-### Spreadsheets
+# Spreadsheets
+
+## Spreadsheets
 
 - [Excel Formula Bot](https://excelformulabot.com/) - A Website Offering Excel Formula Tutorials, Tips, And Tricks.
 - [Goodlookup](https://www.goodlookup.com/) - A Website That Provides A Simple And Easy To Use Tool For Working With Spreadsheets.

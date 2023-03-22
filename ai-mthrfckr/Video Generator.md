@@ -1,4 +1,6 @@
-### Video Generator
+# Video Generator
+
+## Video Generator
 
 * [Astria](https://www.astria.ai/) - Astria Is An AI Powered Storytelling Platform For Books.
 * [Audiolabs](https://www.audiolabs.io/) - Audiolabs Provides AI Powered Audio Production Solutions.

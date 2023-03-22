@@ -1,4 +1,6 @@
-### Chat
+# Chat
+
+## Chat
 
 * [Addcontext.xyz](https://addcontext.xyz/) - AI-powered Chat Based On Given Podcasts, YouTube Channels
 * [Askrobi](http://www.askrobi.com) Power Of AI In Whatsapp. Robi Is A Powerful AI Companion That Lives In Your Contact List And Can Be Talked To Through WhatsApp, He Can Help You Write An Essay Or Generate Original Images.
@@ -12,7 +14,7 @@
 
 ***
 
-#### ChatGPT
+### ChatGPT
 
 * [🤖 ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - A Desktop Application For ChatGPT, An AI Language Model Developed By OpenAI.
 * [Are You The Asshole? - AI Powered AITA Answer Bot](https://areyoutheasshole.com/) - A Website That Uses AI To Determine If You're The Asshole In A Given Situation.

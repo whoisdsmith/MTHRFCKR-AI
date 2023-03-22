@@ -12,5 +12,3 @@
 - [Text To Speech](Text%20To%20Speech.md)
 
 ***
-
-

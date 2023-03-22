@@ -1,4 +1,6 @@
-### Assistant
+# Assistant
+
+## Assistant
 
 * [AI2image](https://www.ai2image.com/) - AI2Image Provides A Platform For Users To Convert Their Written Documents Into An Image Format.
 * [AIGraphics](https://aigraphics.io/) - AIGraphics Offers Tools For Design And Illustration Using Artificial Intelligence.
@@ -32,7 +34,7 @@
 * [Unbound](https://www.unboundcontent.ai/) - Unbound Is A Platform For Automating The Creation Of Marketing And Advertising Content Using Artificial Intelligence.
 * [Vizcom](https://www.vizcom.ai/) - Vizcom Is A Platform That Provides Tools For Creating And Customizing Interactive And Animated Visualizations Using Artificial Intelligence.
 
-***### Assistant
+***### Assistant
 
 * [AIKIt](http://getaikit.com) - AIkit - Your Wordpress AI Assistant Using Gpt-3
 * [AI-Writer](http://ai-writer.com) - AI Writer™ - The Best AI Text Generator, Promised. AI-Writer Is The Most Accurate Content Generation Platform, Using State-of-the-art AI Writing Models To Generate Articles From Just A Headline.

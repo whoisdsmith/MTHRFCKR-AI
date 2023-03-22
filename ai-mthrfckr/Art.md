@@ -1,4 +1,6 @@
-### Art
+# Art
+
+## Art
 
 * [NightCafe Creator](https://creator.nightcafe.studio/) - 🤖 🖼 AI Art Generator, AI Art Maker
 * [AI Art Apps Database](https://aiartapps.com/) - A Database Of AI Art Apps
@@ -62,25 +64,25 @@
 
 ***
 
-#### Age Transformation
+### Age Transformation
 
 * [Age Transformation](https://colab.research.google.com/github/royorel/Lifespan\_Age\_Transformation\_Synthesis/blob/master/LATS\_demo.ipynb) - Age Transformation Synthesis.
 
-#### AnimeGAN (Video2anime)
+### AnimeGAN (Video2anime)
 
 * [Google Colab Notebook: AnimeGAN (English)](https://colab.research.google.com/github/tg%E2%80%93bomze/Video2Anime/blob/master/AnimeGan\_Video\_\(Eng\).ipynb.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of AnimeGAN With English Instructions.
 * [Web Demo For Images: AnimeGAN](https://animegan.js.org/) - This Is A Web Demo That Showcases The Implementation Of AnimeGAN For Images.
 * [Google Colab Notebook: GANsNRoses](https://colab.research.google.com/github/mchong6/GANsNRoses/blob/main/inference\_colab.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of GANsNRoses.
 * [Gradio Hub: GANsNRoses](https://gradio.app/hub/AK391/GANsNRoses) - This Is A Web Demo That Showcases The Implementation Of GANsNRoses On Gradio Hub.
 
-#### Anime Manipulation
+### Anime Manipulation
 
 * [Talking–head–anime–demo (Tha\_colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking%E2%80%93head%E2%80%93anime%E2%80%93demo/blob/master/tha\_colab.ipynb) - A Google Colab Notebook For Animating Talking Heads In Anime Style.
 * [Talking–head–anime–2–demo (Colab.ipynb)](https://colab.research.google.com/github/pkhungurn/talking%E2%80%93head%E2%80%93anime%E2%80%932%E2%80%93demo/blob/master/colab.ipynb) - Another Google Colab Notebook For Animating Talking Heads In Anime Style.
 
 ***
 
-#### Avatars
+### Avatars
 
 * [AIprofilepic](http://aiprofilepic.art) - AI-powered Profile Picture Creation
 * [AI Profile Pictures](http://www.aiprofilepictures.com) - AI-powered Profile Picture Creation (In Beta)
@@ -146,7 +148,7 @@
 
 ***
 
-#### BigGAN
+### BigGAN
 
 * [Artbreeder](https://artbreeder.com/) - Generative Art Platform
 * [BigGAN Generation With TensorFlow Hub (Google Colab Notebook)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan\_generation\_with\_tf\_hub.ipynb) - Colab Example Of BigGAN Implementation
@@ -160,16 +162,16 @@
 
 * [Bigbigan With TensorFlow Hub (Google Colab Notebook)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/bigbigan\_with\_tf\_hub.ipynb) - Colab Example Of Bigbigan Implementation
 
-#### Blind Face Restoration (And Colorization)
+### Blind Face Restoration (And Colorization)
 
 * [Blind Face Restoration And Colorization](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) - Blind Face Restoration And Colorization
 * [GPEN](https://colab.research.google.com/github/bycloudai/GPEN-colab/blob/main/GPEN.ipynb) - Generative Pose-Conditioned Editing Network For Blind Face Restoration And Colorization
 
-#### Body Segmentation
+### Body Segmentation
 
 * [Body Segmentation](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html) - A Demo Of Body Segmentation Using Tensorflow.js
 
-#### CLIP
+### CLIP
 
 * [Siren + CLIP](https://colab.research.google.com/drive/1FoHdqoqKntliaQKnMoNs3yn5EALqWtvP) - A Google Colab Notebook Demonstrating The Use Of Siren And CLIP To Generate Images.
 * [Siren + CLIP (2)](https://colab.research.google.com/drive/1K1vfpTEvAmxW2rnhAaALRVyis8EiLOnD) - Another Google Colab Notebook Demonstrating The Use Of Siren And CLIP To Generate Images.
@@ -198,7 +200,7 @@
 * [Broken Notebook](https://colab.research.google.com/drive/1LXla2q9MCRRI\_kTjpvag2Vz-7EGLnki5) - Not Sure What It's About, But It's Broken.
 * [Notebook](https://colab.research.google.com/drive/1273xNBDcbc4XGjJnnB3V8YoYU9aIcBIB) - Not Sure What It's About.
 
-#### Collab
+### Collab
 
 * [🦜 Prompt Parrot V2.5](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing) - This URL Is For A Google Colab Notebook That Provides The Code For "Prompt Parrot V2.5".
 * [3D Ken Burns](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - This URL Is For A Google Colab Notebook That Provides The Code For "3D Ken Burns".
@@ -235,7 +237,7 @@
 
 ***
 
-#### Colorization
+### Colorization
 
 * [Colorize Photos](https://demos.algorithmia.com/colorize-photos) - A Demo By Algorithmia
 * [MyHeritage InColor](https://www.myheritage.co.il/incolor) - An AI-powered Colorization Tool By MyHeritage
@@ -248,15 +250,15 @@
 * [InstColorization](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb) - An Instant Colorization Tool By Eric Su
 * [ChromaGAN](https://colab.research.google.com/github/pvitoria/ChromaGAN/blob/master/DemoChromaGAN.ipynb) - An AI Colorization Tool By Patrícia Vitoria
 
-#### Controllable Talknet (E.g. Mimic Cartoon Voices)
+### Controllable Talknet (E.g. Mimic Cartoon Voices)
 
 * [Drive (Colab.ipynb)](https://colab.research.google.com/drive/1aj6Jk8cpRw7SsN3JSYCv57CrR6s0gYPB) - A Google Colab Notebook For Controllable Talknet.
 
-#### Cyclegan
+### Cyclegan
 
 [Monet Cyclegan Tutorial](https://www.kaggle.com/amyjang/monet-cyclegan-tutorial) - Kaggle Tutorial On CycleGAN.
 
-#### Deep Dream
+### Deep Dream
 
 * [Deep Dream Generator](https://deepdreamgenerator.com) - Website For Deep Dream Generation
 * [Google Colab Notebook On Deep Dream](https://colab.research.google.com/drive/1WWpJ3gzUOBThdXwqsrF0b3uCmr6o0Q4G)
@@ -265,7 +267,7 @@
 * [Tensorflow's Deep Dream Tutorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb)
 * [DeepDream With Tensorflow](https://colab.research.google.com/github/artistic-ai/deepdream-tensorflow/blob/master/deepdream.ipynb)
 
-#### Deep Fakes
+### Deep Fakes
 
 * [Deep Fakes: DFL Colab](https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL\_Colab.ipynb) - A Colab Notebook For Deep Fakes
 * [Deep Fakes: Motion Cosegmentation](https://colab.research.google.com/github/AliaksandrSiarohin/motion-cosegmentation/blob/master/part\_swap.ipynb) - A Colab Notebook For Motion Cosegmentation
@@ -276,40 +278,41 @@
 * [Deep Fakes: Simple Face Swapper](https://github.com/tg-bomze/collection-of-notebooks/blob/master/Simple\_Face\_Swapper.ipynb) - A Jupyter Notebook For Simple Face Swapping
 * [Deep Fakes: QuickFaceSwap](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/QuickFaceSwap.ipynb) - A Colab Notebook For Quick Face Swapping
 
-#### Deepnude
+### Deepnude
 
-* [Dreampower Notebook On Google Colab](https://colab.research.google.com/gist/Ptibouc77/cd7da30a967b301f2d7a042ad6f06886/dreampower%E2%80%93v1%E2%80%932%E2%80%938%E2%80%93updated%E2%80%93from%E2%80%931%E2%80%932%E2%80%935%E2%80%93from%E2%80%93firstdee.ipynb)\
+* [Dreampower Notebook On Google Colab](https://colab.research.google.com/gist/Ptibouc77/cd7da30a967b301f2d7a042ad6f06886/dreampower%E2%80%93v1%E2%80%932%E2%80%938%E2%80%93updated%E2%80%93from%E2%80%931%E2%80%932%E2%80%935%E2%80%93from%E2%80%93firstdee.ipynb)\  
   A Jupyter Notebook For The Deepnude Algorithm, Which Can Generate Images Of A Person's Naked Body From A Clothed Image.
-* [Dreamtime Notebook On Google Colab](https://colab.research.google.com/gist/FirstDee/c3a94ff37e0561e597b65160aabbbc07/dreamtime%E2%80%93v1.ipynb)\
+
+* [Dreamtime Notebook On Google Colab](https://colab.research.google.com/gist/FirstDee/c3a94ff37e0561e597b65160aabbbc07/dreamtime%E2%80%93v1.ipynb)\  
   A Jupyter Notebook For Another Version Of The Deepnude Algorithm.
 
-#### DeepSVG
+### DeepSVG
 
 * [DeepSVG](https://github.com/alexandre01/deepsvg/blob/master/notebooks) - A Deep Learning Framework For Vectorizing Images
 
-#### Depth Prediction
+### Depth Prediction
 
 * [Stereo Analysis](http://stereo.jpn.org/jpn/stphmkr/google/colabe.html) - A Website That Explains How To Analyze Stereo Images Using Deep Learning Algorithms.
 * [DenseDepth Github Repository](https://github.com/ialhashim/DenseDepth) - A Github Repository That Contains The Code For The DenseDepth Model That Predicts Depth From A Single RGB Image.
 * [Google Colab Notebook](https://colab.research.google.com/github/p%E2%80%93ranav/merged\_depth/blob/master/merged\_depth/nets/monodepth2/depth\_prediction\_example.ipynb) - A Google Colab Notebook That Demonstrates How To Perform Depth Prediction Using A Monodepth2 Model.
 
-#### Destroy And Recover
+### Destroy And Recover
 
 * [Destroy And Recover](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Destroy\_n\_Recover.ipynb) - A Method For Destroying And Recovering Information From Images
 
-#### Face And Body Generation
+### Face And Body Generation
 
 * [Google Colab Notebook](https://colab.research.google.com/drive/1kDMnB9IsnuWa\_KFddOXC21OD8m\_Hkpow) - A Google Colab Notebook That Demonstrates The Generation Of Faces And Bodies Using Deep Learning Algorithms.
 
-#### Face Depixelizer (Pulse)
+### Face Depixelizer (Pulse)
 
 * [Pulse URL](https://colab.research.google.com/github/ctawong/PULSE\_from\_image\_url/blob/master/PULSE\_URL.ipynb) - This Is A Google Colaboratory Notebook That Implements The PULSE (Photo Upsampling Via Latent Space Exploration Of Generative Models) Method For Face Depixelization.
 
-#### Feature Visualization
+### Feature Visualization
 
 * [Tensorflow Lucid](https://github.com/tensorflow/lucid) - This Is A GitHub Repository That Provides Code For Feature Visualization In Deep Neural Networks Using TensorFlow.
 
-#### Free
+### Free
 
 * [AI Art Generator](https://dreamlike.art/create) - AI Art Generator Is A Website That Provides An AI-based Tool For Creating Unique Pieces Of Digital Art.
 * [ArtBot](https://tinybots.net/artbot) - ArtBot Is An AI-powered Art Generator That Creates Unique Pieces Of Art Based On User Inputs.
@@ -333,7 +336,7 @@
 
 ***
 
-#### Full Body Puppeteering
+### Full Body Puppeteering
 
 * [Full Body Reenactment From Video - FOMM](https://j.mp/vid2body)
 * [Full Body Reenactment From Video - Impersonator](https://j.mp/vid2act)
@@ -343,7 +346,7 @@
 * [Pose Animator Demo](../pose-animator-demo.firebaseapp.com/camera.html)
 * [Articulated Animation - Full Body Reenactment From Video](https://j.mp/mraa-body)
 
-#### Generator
+### Generator
 
 * [Accomplice](http://accomplice.ai) - AI-Powered Design Generation, Editing And Training. Accomplice' S AI-powered Platform Helps Your Team Generate 100% Royalty-free Logos, Photos And Graphics While Saving Time, Cutting Costs, And Simplifying Your Workflow
 * [AI2image](http://www.ai2image.com) - Free AI Image Generator - Online Text To Image App - AI2Image. Generate The Best Images Online With Free AI Image Generator By AI2image. Use AI To Generate High-quality Images Of Any Size And Style You Want!
@@ -458,14 +461,14 @@
 
 ***
 
-#### Gpt2 For Image Generation
+### Gpt2 For Image Generation
 
 * [Generative Adversarial Networks With GPT-2](https://colab.research.google.com/drive/1c1kmO9tixviyBB7IGh%E2%80%93jVpLvOh2RpLYk) - This URL Is A Google Colab Notebook Demonstrating How To Generate Images Using Generative Adversarial Networks With GPT-2.
 * [Fine-Tuning GPT-2 For Image Captioning](https://colab.research.google.com/drive/1qgt8cSwKF957PgPTKhRcNwDIfWrMhbV9) - This URL Is A Google Colab Notebook That Shows How To Fine-tune GPT-2 For Image Captioning.
 * [Image Generation With GPT-2 And Tensorflow](https://colab.research.google.com/drive/1neFtD1y3RyPdZzfY7nRwzCpMcytHdNcw) - This URL Is A Google Colab Notebook That Demonstrates How To Use GPT-2 And Tensorflow To Generate Images.
 * [Fine-Tuning GPT-2 For Image Generation](https://colab.research.google.com/drive/1em6hc60VpwfKfBMYDVP8zgzanA9tUVaS) - This URL Is A Google Colab Notebook That Shows How To Fine-tune GPT-2 For Image Generation.
 
-#### Image
+### Image
 
 * [💬 🖌️ ProsePainter](https://www.prosepainter.com/) - A Website That Allows Users To Paint With Prose, Or Create An Image From Text.
 * [Aiart.dev](https://aiart.dev/) - A Platform That Showcases AI-generated Artwork And Allows Users To Create Their Own.
@@ -551,7 +554,7 @@
 
 **Image Generation And Animation Based On A Single Image**
 
-* [SinGAN Notebook On Google Colab](https://colab.research.google.com/github/dvschultz/ai/blob/master/SinGAN.ipynb)\
+* [SinGAN Notebook On Google Colab](https://colab.research.google.com/github/dvschultz/ai/blob/master/SinGAN.ipynb)\  
   A Jupyter Notebook Demonstrating The Use Of SinGAN For Generating And Animating Images Based On A Single Input Image.
 
 **Image Generation With AI2 X–LXMERT**
@@ -579,15 +582,15 @@
 
 * [Inpainting](https://www.nvidia.com/research/inpainting/) - Nvidia Research Page On Image Inpainting
 
-#### Jukebox
+### Jukebox
 
 * [Jukebox](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting\_with\_Jukebox.ipynb)
 
-#### Keras Face Toolbox (Landmarks, Parsing Segmentation Including Hair, Iris, Face Verification, Gender, Age
+### Keras Face Toolbox (Landmarks, Parsing Segmentation Including Hair, Iris, Face Verification, Gender, Age
 
 * [Keras Face Toolbox](https://colab.research.google.com/github/eyaler/face\_toolbox\_keras/blob/master/demo.ipynb) - Landmarks, Parsing Segmentation Including Hair, Iris, Face Verification, Gender, And Age
 
-#### Pose
+### Pose
 
 * [Posenet Sketchbook](https://googlecreativelab.github.io/posenet%E2%80%93sketchbook/) - This URL Is An Interactive Demo Of Posenet, A Machine Learning Model That Can Detect Human Body Poses In Real-time.
 * [OpenPose With Tensorflow](https://colab.research.google.com/github/tugstugi/dl%E2%80%93colab%E2%80%93notebooks/blob/master/notebooks/OpenPose.ipynb) - This URL Is A Google Colab Notebook That Demonstrates How To Use OpenPose With Tensorflow To Detect Human Poses.
@@ -598,7 +601,7 @@
 * [Pose Estimation With OpenCV](https://colab.research.google.com/drive/1uCuA6We9T5r0WljspEHWPHXCT\_2bMKUy) - This URL Is A Google Colab Notebook That Shows How To Use OpenCV To Estimate Human Poses.
 * [Human Pose Estimation With Tensorflow](https://colab.research.google.com/drive/14Zgotr2\_F0LfvcpRi03uQdMvUbLQSgok) - This URL Is A Google Colab Notebook That Demonstrates How To Estimate Human Poses With Tensorflow.
 
-#### Pre–trained Stylegan Models
+### Pre–trained Stylegan Models
 
 * [Awesome Pretrained StyleGAN](https://github.com/justinpinkney/awesome-pretrained-stylegan) By Justin Pinkney, A Collection Of Links To Pre-trained Stylegan Models.
 * [Awesome Pretrained StyleGAN2](https://github.com/justinpinkney/awesome-pretrained-stylegan2) By Justin Pinkney, A Collection Of Links To Pre-trained Stylegan2 Models.
@@ -614,19 +617,19 @@
 * [SAM Age Transformation (Google Colab)](https://colab.research.google.com/github/yuval-alaluf/SAM/blob/master/notebooks/inference\_playground.ipynb) By Yuval Alaluf.
 * [SAM Age Transformation (Animated) (Google Colab)](https://colab.research.google.com/github/yuval-alaluf/SAM/blob/master/notebooks/animation\_inference\_playground.ipynb) By Yuval Alaluf.
 
-#### RuDalle Outpainting
+### RuDalle Outpainting
 
 * [RuDalle Outpainting Website](https://j.mp/outpaint) - This Is A Website That Showcases The Implementation Of RuDalle Outpainting.
 
-#### Rudalle Text2Image (Malevich V3 + Emojich)
+### Rudalle Text2Image (Malevich V3 + Emojich)
 
 * [Google Colab Notebook: Rudalle Text2Image (Malevich V3 + Emojich)](https://colab.research.google.com/github/Norod/my%E2%80%93colab%E2%80%93experiments/blob/master/Simple\_ruDALLE\_inference\_\[supports\_v1\_0\_0].ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of Rudalle Text2Image (Malevich V3 + Emojich).
 
-#### Rudolph
+### Rudolph
 
 * [Google Colab Notebook: Rudolph](https://colab.research.google.com/drive/1gmTDA13u709OXiAeXWGm7sPixRhEJCga) - This Is A Google Colab Notebook That Showcases The Implementation Of Rudolph.
 
-#### Single Image Head Avatars
+### Single Image Head Avatars
 
 * [FOMM Demo](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb) - Head Reenactment With New GUI
 * [Avatarify Beta](https://github.com/alievk/avatarify/wiki/Windows-App-) - Windows App For Avatarify
@@ -634,25 +637,25 @@
 * [Fomm Live Head Reenactment From Webcam](https://j.mp/cam2head) - Live Head Reenactment From Webcam
 * [MyHeritage Deep Nostalgia](https://www.myheritage.co.il/deep-nostalgia) - AI Tool To Animate Images Of People From The Past.
 
-#### Single Shot Denoising
+### Single Shot Denoising
 
 * [Single Shot Denoising](https://colab.research.google.com/github/DmitryUlyanov/deep-image-prior/blob/master/denoising.ipynb) - A Deep Learning-based Method For Single-shot Image Denoising
 * \[Single-Shot Denoising (Czbiohub)]\(https://colab.research.google.com/github/czbiohub/noise2self/blob/master/notebooks/Single-Shot Denoising.ipynb) - Another Deep Learning-based Method For Single-shot Image Denoising
 
-#### SIREN/FFT/Implicit
+### SIREN/FFT/Implicit
 
 * [Explore SIREN (Google Colab Notebook)](https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore\_siren.ipynb) - Example Of Using SIREN For Generative Tasks
 * [SIREN For Image/video (Google Colab Notebook)](https://colab.research.google.com/drive/1HSsQen6lXnPHEpQPzmCuD5zFKhtPdZAI) - Example Of Using SIREN For Image/video Generation
 * [Fourier Feature Networks (Google Colab Notebook)](https://colab.research.google.com/github/tancik/fourier-feature-networks/blob/master/Demo.ipynb) - Example Of Using Fourier Feature Networks
 * [Meta-Learning With Implicit Models (Google Colab Notebook)](https://colab.research.google.com/github/tancik/learnit/blob/master/meta\_demo.ipynb) - Example Of Using Implicit Models For Meta-learning.
 
-#### Spade/Gaugan
+### Spade/Gaugan
 
 * [Nvidia Research - Spade/Gaugan (1)](http://xn--nvidiaresearchmingyuliu-2m2nia.com/gaugan/) - This Is A Website By Nvidia Research Showcasing The Implementation Of Spade/Gaugan.
 * [Gaugan.org - Spade/Gaugan (2)](http://gaugan.org/gaugan2/) - This Is Another Website Showcasing The Implementation Of Spade/Gaugan.
 * [Nvidia Studio Canvas - Spade/Gaugan (3)](https://www.nvidia.com/en%E2%80%93us/studio/canvas/) - This Is A Website By Nvidia Studio Showcasing The Implementation Of Spade/Gaugan.
 
-#### Stable Diffusion
+### Stable Diffusion
 
 * [AI Creation Tool MEGA List](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - Google Sheets - This Is A Google Sheets Document With A Comprehensive List Of AI Creation Tools.
 * [AIimag](https://aiimag.es/)–The Easy Solution For Text2image AI - This Is The Website For AIimag, A Solution For Text2Image AI.
@@ -694,7 +697,7 @@
 
 ***
 
-#### StyleGAN
+### StyleGAN
 
 * [Lucid Sonic Dreams](https://colab.research.google.com/drive/1Y5i50xSFIuN3V4Md8TB30\_GOAtts7RQD?usp=sharing) - Animate Path Through StyleGAN Latent Space With Music [Github](https://github.com/mikaelalafriz/lucid-sonic-dreams)
 * [Painting With StyleGAN](https://colab.research.google.com/github/jmoso13/Painting\_with\_StyleGAN/blob/main/Painting\_with\_StyleGAN.ipynb) By @Jmoso13 ([Tutorial](https://www.youtube.com/watch?v=pkYHMPoZrkg)) - Use VAE To Navigate And Animate!
@@ -750,7 +753,7 @@
 * [NN Hallucinations By Eugen Hotaj](https://github.com/EugenHotaj/nn-hallucinations/blob/master/style\_transfer.ipynb) - A Jupyter Notebook On Style Transfer Using Neural Networks.
 * [Google Colab For MUNIT](https://colab.research.google.com/drive/1JshOp4J7bdIpvJZplZ--wwaisSBUx9tF) - A Colaboratory Notebook For The MULTI-SCALE UNIT (MUNIT) Framework For Style Transfer.
 
-#### Super-Resolution
+### Super-Resolution
 
 * [ChaiNNer](https://github.com/joeyballentine/chaiNNer) - Node Base Tool That Can Batch Process ESRGAN Upscale And More
 * [Cupscale](https://github.com/n00mkrad/cupscale) - Windows GUI For ESRGAN
@@ -779,11 +782,11 @@
 * [DFDNet Colab For DeepFakers](https://colab.research.google.com/github/tg-bomze/DFDNet/blob/whole/DFDNet\_Colab\_for\_DeepFakers.ipynb) - Colaboratory On DFDNet For DeepFakers
 * [DFDNet Colab (English)](https://colab.research.google.com/github/tg-bomze/DFDNet/blob/whole/DFDNet\_Colab\_Eng.ipynb) - Colaboratory On DFDNet (English Version)
 
-#### Taming Transformers: Landscape Generation, Faces
+### Taming Transformers: Landscape Generation, Faces
 
 * [Taming Transformers](https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb) - Landscape Generation And Faces
 
-#### Text Generation
+### Text Generation
 
 * [Voyages In Sentence Space](https://www.robinsloan.com/voyages%E2%80%93in%E2%80%93sentence%E2%80%93space/) - An Article By Robin Sloan On Sentence Interpolation
 * [RecurrentJS](https://cs.stanford.edu/people/karpathy/recurrentjs/) - A JavaScript Library By Andrej Karpathy For Training And Evaluating Recurrent Neural Networks

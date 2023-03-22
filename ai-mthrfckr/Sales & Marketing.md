@@ -1,4 +1,6 @@
-### Sales & Marketing
+# Sales & Marketing
+
+## Sales & Marketing
 
 * [Altera AI](http://www.altera.ai) - A Better Way To Sell On Linkedin. Get More Leads And Close More Deals With Altera, The AI Sales Assistant That Generates Hyper Personalised Comments, Inmails And Posts On LinkedIn.
 * [Clickable](http://www.clickable.so) - Generate Ads In Seconds With AI. Beautiful, Brand-consistent, And Highly Converting Ads For All Marketing Channels. No Design Experience Needed.

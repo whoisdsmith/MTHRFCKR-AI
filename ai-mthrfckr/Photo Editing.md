@@ -1,4 +1,6 @@
-### Photo Editing
+# Photo Editing
+
+## Photo Editing
 
 * [AI Image Enlarger](https://imglarger.com) - AI Image Enlarger - Enlarge Image Without Losing Quality!
 * [AVC AI](https://avc.ai) - Online AI Image Enhancer That Improves Photo Quality By Upscaling, Denoising, Restoring, Face Refinement, And More
@@ -24,7 +26,7 @@
 
 ***
 
-#### Editing
+### Editing
 
 * [AI. Image Enlarger](https://imglarger.com/) - A Website For An AI-powered Image Enlargement Tool.
 * [Al Picasso](https://aipicasso.studio.site/) - A Website For An AI-powered Digital Art Creation Tool.
@@ -53,18 +55,18 @@
 
 ***
 
-#### Photo Restoration
+### Photo Restoration
 
 * [Photo Restoration](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU\_4DqDkQO0nFRB-uA) - Photo Restoration
 
-#### Pix2Pix
+### Pix2Pix
 
 * [Pix2Pix Server](https://affinelayer.com/pixsrv/) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix Generative Adversarial Network (GAN) For Image-to-image Translation.
 * [Scene Generation With Pix2Pix](https://zaidalyafeai.github.io/pix2pix/scene.html) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix GAN For Generating Scenes From Semantic Label Maps.
 * [Webcam Reconstruction With Pix2Pix](https://zaidalyafeai.github.io/webcam%E2%80%93reconstruction/) - This Is A Website That Provides An Interactive Demo Of The Pix2Pix GAN For Reconstructing Images Captured From A Webcam.
 * [Pix2Pix With TensorFlow](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/tf\_pix2pix.ipynb) - This Is A Google Colaboratory Notebook That Demonstrates How To Implement The Pix2Pix GAN Using TensorFlow.
 
-#### Plugins & Extensions
+### Plugins & Extensions
 
 * [AIduh](https://aiduh.com) - AI-Responder For Hostaway - AI Duh. Chrome Extension That Cuts Your Writing Time By 98% With AI-powered Responses. Built By Hosts For Hosts.
 * [Autoname](https://.autoname.org) - Rename All Your Layers In One Click. Thanks To AI. Open Source. Rename Figma Frames In One Click, That's Pretty Much It.

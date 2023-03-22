@@ -1,4 +1,6 @@
-### Paraphraser
+# Paraphraser
+
+## Paraphraser
 
 * [Bearly](https://bearly.ai/) - An AI-powered Text Editor That Can Help You Write Faster And Better.
 * [Language Tool](https://languagetool.org/) - A Grammar And Spelling Checker That Supports Multiple Languages.

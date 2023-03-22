@@ -1,6 +1,8 @@
-### Reading List
+# Reading List
 
-This Section Is From [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq\_6KP5QWlQaDS\_Sgk0\&sa=D\&source=docs\&ust=1675571170625334\&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX) All Credit Goes To Him!\
+## Reading List
+
+This Section Is From [@JackSoslow](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170549616%26amp;usg%3DAOvVaw3Rfeq\_6KP5QWlQaDS\_Sgk0\&sa=D\&source=docs\&ust=1675571170625334\&usg=AOvVaw2F9G4vWFRlTdcsSCCDW2ZX) All Credit Goes To Him!\  
 [Music Playlist](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/playlist/0cYcPCDK2MBzKt4QXym5GM?si%253Da4d17192c8814a42%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170548835%26amp;usg%3DAOvVaw2YYr1D7e8n6cs57Te\_KjVh\&sa=D\&source=docs\&ust=1675571170625091\&usg=AOvVaw1YzyoCd90UCt42Umo9OtUC)
 
 * [Blogs / Threads / Papers](<ai-resources.md#Blogs / Threads / Papers>)
@@ -15,7 +17,7 @@ This Is AImed Towards The AI Curious Looking To Go Down The Rabbit Hole Not The 
 
 ***
 
-#### Blogs / Threads / Papers
+### Blogs / Threads / Papers
 
 **S Tier (“Best Of The Best”)**
 
@@ -74,13 +76,13 @@ This Is AImed Towards The AI Curious Looking To Go Down The Rabbit Hole Not The 
 * Roon (2022)—[Text Is The Universal Interface](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://scale.com/blog/text-universal-interface%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170575059%26amp;usg%3DAOvVaw3\_DItliw6CdHF0qaa6B7J4\&sa=D\&source=docs\&ust=1675571170630962\&usg=AOvVaw1-ZZ2chwXLI7xgUc2j4NSS)
 * Jack Soslow (2022)—[2022 AI Research And Trends Round Up](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://twitter.com/JackSoslow/status/1600552299231051776%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170575458%26amp;usg%3DAOvVaw1wlk1coPZLNvyuTfF3UEmr\&sa=D\&source=docs\&ust=1675571170631055\&usg=AOvVaw0poSyiNJnMxd5PuIspGaMA)
 
-#### Books
+### Books
 
 * [Deep Learning (2016)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.deeplearningbook.org/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170604483%26amp;usg%3DAOvVaw3kW7bTXBdg7XypXldugRMO\&sa=D\&source=docs\&ust=1675571170637176\&usg=AOvVaw1yT9MWz64wW4YG\_cW6XMyn)
 * [Superintelligence (2014)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.amazon.com/Superintelligence-Nick-Bostrom-audiobook/dp/B00LPMFE9Y%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170604941%26amp;usg%3DAOvVaw3wLnIP1UQek\_hfgSMQiwVz\&sa=D\&source=docs\&ust=1675571170637267\&usg=AOvVaw38IJqKQ\_LDbS\_TY0kun1UZ)
 * [The Singularity Is Near (2005)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170605385%26amp;usg%3DAOvVaw3gnDRT59hPFXDLQMYGir7s\&sa=D\&source=docs\&ust=1675571170637381\&usg=AOvVaw0n5V\_bRnCZcmAS-yFD8V7F)
 
-#### Movies
+### Movies
 
 * [AlphaGo (2017)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/alphago%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606060%26amp;usg%3DAOvVaw3J-FF5dbR6wJJ6usfsdH7M\&sa=D\&source=docs\&ust=1675571170637497\&usg=AOvVaw2rvZmkcc\_5soqjCNTOGbxB)
 * [Her (2013)](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.rottentomatoes.com/m/her%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170606474%26amp;usg%3DAOvVaw36biC9R-WlQ5TByN1fx-00\&sa=D\&source=docs\&ust=1675571170637578\&usg=AOvVaw0cCe4f7Vs5uSpp6zx89Z0c)
@@ -88,7 +90,7 @@ This Is AImed Towards The AI Curious Looking To Go Down The Rabbit Hole Not The 
 
 ***
 
-#### Podcasts
+### Podcasts
 
 **S Tier (“Best Of The Best”)**
 
@@ -118,7 +120,7 @@ This Is AImed Towards The AI Curious Looking To Go Down The Rabbit Hole Not The 
 * Joscha Bach | Lex Fridman—[Artificial Consciousness And The Nature Of Reality](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/1jj1KRKXwPnj77ybmvjWKD?si%253D8UMuLEeJQ5yVPuPmgkFNCQ%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170585372%26amp;usg%3DAOvVaw0LBoMoXoZpq4tueLBHWEun\&sa=D\&source=docs\&ust=1675571170633021\&usg=AOvVaw0Xe01CL-FpWQybPyLdLcmB)
 * John Carmack | Lex Fridman—[Doom, Quake, VR, AGI, Programming, Video Games, And Rockets](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://open.spotify.com/episode/3LddnZjkpflldHXnRZ0rrw?si%253D87689c23fb57467d%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1675571170585936%26amp;usg%3DAOvVaw20RoJsxWeKzg\_mo7ZprMGT\&sa=D\&source=docs\&ust=1675571170633114\&usg=AOvVaw3A6l5GUfxHWJ\_VMWTT5OHC)
 
-#### Videos / Video Podcasts / Video Essays
+### Videos / Video Podcasts / Video Essays
 
 **S Tier (“Best Of The Best”)**
 

@@ -1,4 +1,6 @@
-### Tools
+# Tools
+
+## Tools
 
 * [Everything You Need To Create Images With AI | Getimg.ai](https://getimg.ai/) - Getimg.ai Is A Platform That Provides Tools For Creating Images Using AI.
 * [Face Generator–Generate Faces Online Using AI](https://generated.photos/face-generator?ref=aiartapps.com) - The Face Generator Is An Online Tool That Uses AI To Generate Human Faces.
@@ -11,16 +13,16 @@
 
 ***
 
-#### Audio Style Transfer
+### Audio Style Transfer
 
 * [Google Research: Tone Transfer](https://sites.research.google/tonetransfer) - This Is A Website By Google Research Showcasing The Implementation Of Audio Style Transfer.
 * [Google Colab Notebook: Ss-vq-vae (Timbre)](https://colab.research.google.com/github/cifkao/ss%E2%80%93vq%E2%80%93vae/blob/main/experiments/colab\_demo.ipynb) - This Is A Google Colab Notebook That Showcases The Implementation Of Ss-vq-vae For Audio Style Transfer (Timbre).
 
-#### Autoencoders
+### Autoencoders
 
 * [AutoEncoders Notebook](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/AutoEncoders.ipynb) - Autoencoder Demos By Zaid Alyafeai
 
-#### Green Screen
+### Green Screen
 
 * [Google Colab: Image Background Remove Tool](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/try.ipynb) - A Tool For Removing The Background Of An Image.
 * [Google Colab: Clean Background Image](https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9) - Requires A Clean Background Image.
@@ -39,16 +41,16 @@
 * [Google Colab: ModNet Webcam](https://colab.research.google.com/drive/1Pt3KDSc2q7WxFvekCnCLD8P0gBEbxm6J) - A Tool For Removing The Background Of A Webcam Image Using ModNet.
 * [Google Colab: RVM](https://colab.research.google.com/drive/10z-pNKRnVNsp0Lq9tH1J\_XPZ7CBC\_uHm) - The Relevance Vector Machine (RVM) Algorithm.
 
-#### No Code Tools
+### No Code Tools
 
 * [Artbreeder Collage](https://collage.artbreeder.com/) - CLIP Guided Diffusion On Top Of Simple Collages
 * [Artbreeder](https://www.artbreeder.com/) - StyleGAN Model With "Genes" (Directions In Latent Space) For Editing
 * [CogView](https://agc.platform.baai.ac.cn/CogView/index.html) - Text To Image, Chinese Model Like DALL-E ( [Interview](https://towardsdatascience.com/cogview-image-generation-and-language-modelling-at-scale-8d358a0686d2) )
 * [Conjure.art](https://www.conjure.art/) - New Text To Image Site Currently In Beta
 * [Craiyon](https://www.craiyon.com/) - Formerly Known As Dall-e Mini, Free And Makes Quick Grids Of 9 Outputs
-* [Dall-e 2](https://openai.com/dall-e-2/) - Join The Waitlist To Get Access To The Beta  🔥
+* [Dall-e 2](https://openai.com/dall-e-2/) - Join The Waitlist To Get Access To The Beta 🔥
 * [DeepDreamGenerator](https://deepdreamgenerator.com/) - Deep Style, Thin Style, Deep Dream
-* [Midjourney](https://midjourney.com/) - Text To Image Via Discord Bot, Now Open To Everyone  🔥🔥
+* [Midjourney](https://midjourney.com/) - Text To Image Via Discord Bot, Now Open To Everyone 🔥🔥
 * [Murf.ai](https://murf.ai/text-to-speech) - Text To Speech With AI Voices
 * [Nebula41](https://nebula41.io/) - Under Development, VQGAN Videos From Text
 * [Neural.love Image-upscale](https://neural.love/image-upscale) - Credit Based Image Upscaling Service
@@ -70,20 +72,20 @@
 
 ***
 
-#### Offline Tools
+### Offline Tools
 
 * [VOC](https://softology.com.au/voc.htm) - A Voice Recognition Software By Softology
 * [EBSynth](https://ebsynth.com/) - A Real-time Wavetable Synthesizer By Ethan Brosh
 
-#### Speaker Separation
+### Speaker Separation
 
 * [Google Colab Notebook](https://colab.research.google.com/github/pyannote/pyannote%E2%80%93audio/blob/master/notebooks/introduction\_to\_pyannote\_audio\_speaker\_diarization\_toolkit.ipynb) - A Google Colab Notebook That Introduces You To The Pyannote Audio Speaker Diarization Toolkit And How To Use It For Speaker Separation.
 
-#### Speech Synthesis With Celebrity Voices
+### Speech Synthesis With Celebrity Voices
 
 * [Vo.codes](https://vo.codes) - A Website With Tools For Speech Synthesis With Celebrity Voices And Wav2lip Interface.
 
-#### Wav2lip / Make It Talk
+### Wav2lip / Make It Talk
 
 * [Quick\_demo.ipynb](https://colab.research.google.com/github/yzhou359/MakeItTalk/blob/main/quick\_demo.ipynb) - A Google Colab Notebook For Lip Syncing Animations In Images Or Videos From Audio.
 * [Quick\_demo\_tdlr.ipynb](https://colab.research.google.com/github/yzhou359/MakeItTalk/blob/main/quick\_demo\_tdlr.ipynb) - A Brief Version Of The Above Demo.
@@ -92,10 +94,9 @@
 * [Wav2lip (J.mp)](https://j.mp/wav2lip) - A Short URL Redirecting To Lip Syncing Demos.
 * [Vo.codes](https://vo.codes) - A Website With A Wav2lip Interface And Other Speech Synthesis Tools.
 
-#### Word2Dream
+### Word2Dream
 
-* [Word2Dream Website](https://eyalgruss.com/word2dream) - This Is A Website Showcasing The Implementation Of Word2Dream.### Tools
-
+* [Word2Dream Website](https://eyalgruss.com/word2dream) - This Is A Website Showcasing The Implementation Of Word2Dream.### Tools
 * [ABtesting AI](https://abtesting.ai/) - A Platform For A/B Testing.
 * [AI App Ideas](http://www.aiappideas.com) - A Platform For Discovering AI-powered App Ideas
 * [AI Car Diagnosis](http://cardiagnosis.softr.app) - Car Diagnosis AI. Get Real-time Diagnostics And Insights Into Your Car' S Performance With Our Cutting-edge Tool.

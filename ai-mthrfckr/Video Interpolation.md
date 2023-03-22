@@ -1,4 +1,6 @@
-### Video Interpolation
+# Video Interpolation
+
+## Video Interpolation
 
 * [3D Ken Burns Effect From Single Image](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) - Animated Video From 2D Image
 * [3D Photo Inpainting](https://colab.research.google.com/github/fzantalis/colab\_collection/blob/master/3D\_Photo\_Inpainting.ipynb) - Cool 3D Effects For 2D Images

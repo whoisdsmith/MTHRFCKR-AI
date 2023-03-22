@@ -12,4 +12,3 @@
 - [Translation & Transcript](Translation%20&%20Transcript.md)
 
 ***
-

@@ -1,4 +1,6 @@
-### Video Personalized
+# Video Personalized
+
+## Video Personalized
 
 * [Bhuman](https://www.bhuman.ai/) - An AI Platform That Helps Brands Build, Scale, And Optimize Their Sales, Customer Service, And Marketing.
 * [Colossyan](https://www.colossyan.com/) - An AI-powered Platform For Creating And Sharing Interactive 3D Content.

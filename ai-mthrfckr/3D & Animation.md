@@ -1,6 +1,6 @@
-### 3D & Animation
+# 3D & Animation
 
-
+## 3D & Animation
 
 [3D Object Generation](https://colab.research.google.com/drive/1FcQibnjfp4mpn\_WJiQlVBRJMkhSMZqbU) - This Is A Google Colaboratory Notebook That Demonstrates How To Generate 3D Objects Using Generative Adversarial Networks (GANs).
 
@@ -33,7 +33,7 @@
 * [TextureLab](http://www.texturelab.xyz) - A Tool For Generating Instant And Unique 3D Textures For Use In Games, Thanks To AI Technology.
 * [The Simulation](https://fablesimulation.com/) - A Platform For Creating And Running Virtual Simulations.
 
-#### 3D Human Reconstruction And Motion Capture
+### 3D Human Reconstruction And Motion Capture
 
 * [PIFuHD](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt) - 3D Human Reconstruction And Motion Capture
 * [Pifuhd](https://colab.research.google.com/github/cedro3/others/blob/master/PIFuHD\_Demo.ipynb) - 3D Human Reconstruction And Motion Capture

@@ -1,4 +1,6 @@
-### Data
+# Data
+
+## Data
 
 - [AI2sql](https://www.ai2sql.io/) - AI2sql Is A Tool That Enables You To Query Databases Using Natural Language.
 - [AI SQL Query Builder](https://aihelperbot.com/) - AI SQL Query Builder Is A Tool That Helps You Build SQL Queries By Simply Asking Natural Language Questions.

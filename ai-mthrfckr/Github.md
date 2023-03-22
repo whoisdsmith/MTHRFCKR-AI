@@ -1,4 +1,6 @@
-### Github
+# Github
+
+## Github
 
 * [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompts Directory
 * [Awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2) - A Curated List Of Pretrained StyleGAN2 Models.

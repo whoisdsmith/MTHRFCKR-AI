@@ -1,4 +1,6 @@
-### Logo Generator
+# Logo Generator
+
+## Logo Generator
 
 * [Designs AI](https://designs.ai/) - Creative Work Done Effortlessly
 * [Brandmark](http://brandmark.io) - Brandmark Logo Maker - The Most Advanced AI Logo Design Tool

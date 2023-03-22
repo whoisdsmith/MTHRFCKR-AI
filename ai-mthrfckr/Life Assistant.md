@@ -1,4 +1,6 @@
-### Life Assistant
+# Life Assistant
+
+## Life Assistant
 
 * [AI Trip Planner](https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961) - A Platform For Planning Trips Using AI Technology.
 * [Apple Books](https://www.apple.com/in/apple-books/) - An E-book Platform By Apple Inc.

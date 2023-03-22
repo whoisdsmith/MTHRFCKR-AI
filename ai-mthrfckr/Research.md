@@ -1,4 +1,6 @@
-### Research
+# Research
+
+## Research
 
 * [Adept](https://www.adept.ai/) - Adept Is An AI-powered Writing Assistant.
 * [Consensus](https://consensus.app/) - Consensus Is A Project Management And Collaboration Tool.

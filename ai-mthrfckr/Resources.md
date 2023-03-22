@@ -1,4 +1,6 @@
-### Resources
+# Resources
+
+## Resources
 
 * [AGI Labs](https://agilabs.org/ai-helpers-home) - Choose From Hundreds Of Our Highly Trained AI Helpers To Generate Customized High-quality AI Writings For Study, Work, And Life Applications, Or Get Human Services Besides Just AI!
 * [AI Art Apps](https://aiartapps.com/) - AI Art Resources, Tools & Inspiration For Designers And Prompt Engineers.

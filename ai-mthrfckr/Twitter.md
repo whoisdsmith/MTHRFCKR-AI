@@ -1,4 +1,6 @@
-### Twitter
+# Twitter
+
+## Twitter
 
 - [Andrej Karpathy](https://twitter.com/karpathy) - Ex-OpenAI, Ex-Tesla AI Director
 - [Jim Fan](https://twitter.com/DrJimFan) - AI Content

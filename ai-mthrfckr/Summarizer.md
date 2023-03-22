@@ -1,4 +1,6 @@
-### Summarizer
+# Summarizer
+
+## Summarizer
 
 * [Bearly](https://bearly.ai/) - An AI-powered Content Analysis And Optimization Tool.
 * [ExplainThis](https://explainthis.ai/) - A Natural Language Processing Tool That Helps Users Understand Complex Ideas And Text.

@@ -1,4 +1,6 @@
-### Translation & Transcript
+# Translation & Transcript
+
+## Translation & Transcript
 
 * [AnyPod](https://www.anypod.ai/) - An AI-powered Audio Content Platform
 * [AssembleAI](https://www.assemblyai.com/) - An API For Speech-to-text Transcription

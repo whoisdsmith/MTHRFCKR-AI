@@ -1,4 +1,6 @@
-### Customer Support
+# Customer Support
+
+## Customer Support
 
 * [Aida](http://www.bookmark.com) - Spend Time Running Your Business, Not Your Website. Let Our AI Powered Website Builder Get Your Business Online In Minutes.
 * [AI Answers By Cohere](http://cohere.io) - Cohere Is A Conversational AI Platform For Customer Support That Finds Answers From Previous Tickets Using AI-powered Assistance.

@@ -1,4 +1,6 @@
-### General
+# General
+
+## General
 
 * [AlDuh](https://aiduh.com/) - An AI Language Model That Generates Product Descriptions.
 * [CaliberAI](https://caliberai.net/) - A Platform For AI-powered Content Creation And Analysis.

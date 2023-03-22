@@ -1,4 +1,6 @@
-### Search Engine
+# Search Engine
+
+## Search Engine
 
 * [AI-Powered Search Engine - Lucidworks](https://lucidworks.com/ai-powered-search/) - Lucidworks AI-powered Search Engine Can Be Used To Search, Discover, And Interact With Data In A Way That Is More Human-like.
 * [Algolia](https://www.algolia.com/) - Algolia Is A Search-as-a-service Provider That Enables Businesses To Quickly Provide A Search Experience In Their Digital Products.

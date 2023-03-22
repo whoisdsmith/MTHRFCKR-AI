@@ -1,4 +1,6 @@
-### Editing
+# Editing
+
+## Editing
 
 * [Altered](https://www.altered.ai/) - Altered Is A Platform That Helps You Generate Text In Real-time, By Using Deep Learning Models Trained On A Large Corpus Of Data.
 * [Assemblyai](http://www.assemblyai.com) - #1 Api Platform For AI Models. Automatically Convert And Video Files And Live Streams To Text With AssemblyAI's Speech-to-Text APIs. Do More With Intelligence - Summarization, Content Moderation, Topic Detection.

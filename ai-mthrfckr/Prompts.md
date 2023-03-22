@@ -1,4 +1,6 @@
-### Prompts
+# Prompts
+
+## Prompts
 
 * [CLIP Interrogator 2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - An AI Model That Generates Short Answers To Questions In Natural Language.
 * [Home | DiffusionDB](https://poloclub.github.io/diffusiondb/) - A Platform That Helps To Easily Visualize And Explore High-dimensional Data Through Diffusion Maps.

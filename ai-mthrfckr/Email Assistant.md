@@ -1,4 +1,6 @@
-### Email Assistant
+# Email Assistant
+
+## Email Assistant
 
 * [ChatGPT Writer](https://chatgptwriter.ai/) - AI Powered Writing Tool.
 * [Creatext](https://www.creatext.ai/) - A Writing Tool That Combines The Power Of AI And Human Creativity.
