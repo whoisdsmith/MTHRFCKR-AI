@@ -2,6 +2,7 @@
 
 * [AI-MTHRFCKR](README.md)
   * [Recently Added](ai-mthrfckr/recently-added/README.md)
+    * [2023-04-15](readme/recently-added/2023-04-15.md)
     * [2023-04-12](readme/recently-added/2023-04-12.md)
     * [2023-03-30](readme/recently-added/2023-03-30.md)
     * [2023-03-27](readme/recently-added/2023-03-27.md)
