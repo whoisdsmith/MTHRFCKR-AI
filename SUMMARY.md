@@ -2,6 +2,8 @@
 
 * [AI-MTHRFCKR](README.md)
   * [Recently Added](ai-mthrfckr/recently-added/README.md)
+    * [GPT Prompt Guides](readme/recently-added/gpt-prompt-guides.md)
+    * [2023-04-20](readme/recently-added/2023-04-20.md)
     * [2023-04-19](readme/recently-added/2023-04-19.md)
     * [2023-04-18](readme/recently-added/2023-04-18.md)
     * [2023-04-17](readme/recently-added/2023-04-17.md)
