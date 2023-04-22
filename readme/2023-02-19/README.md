@@ -1,4 +1,4 @@
-# 2023-02-19
+# February
 
 ## 2023-02-19
 
@@ -589,10 +589,10 @@
 
 ### Other
 
-* [Fake](./#Fake)
-* [Fun With AI](<./#Fun With AI>)
-* [Gaming](./#Gaming)
-* [Misc](./#Misc)
+* [Fake](broken-reference)
+* [Fun With AI](broken-reference)
+* [Gaming](broken-reference)
+* [Misc](broken-reference)
 
 ***
 
