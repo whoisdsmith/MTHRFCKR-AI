@@ -1,5 +1,9 @@
 # April
 
+{% content-ref url="2023-04-23.md" %}
+[2023-04-23.md](2023-04-23.md)
+{% endcontent-ref %}
+
 {% content-ref url="2023-04-22.md" %}
 [2023-04-22.md](2023-04-22.md)
 {% endcontent-ref %}
