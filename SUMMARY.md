@@ -2,6 +2,7 @@
 
 * [AI-MTHRFCKR](README.md)
   * [May](readme/may/README.md)
+    * [2023-05-08](readme/may/2023-05-08.md)
     * [2023-05-06](readme/may/2023-05-06.md)
     * [2023-05-04](readme/may/2023-05-04.md)
   * [April](readme/april/README.md)
